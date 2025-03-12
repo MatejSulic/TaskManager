@@ -17,4 +17,8 @@ node_modules/
 
 # OS files
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> e39910510b56ececb03ed5e435e32378ec5fbd19
